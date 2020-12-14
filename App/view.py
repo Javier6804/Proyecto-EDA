@@ -79,7 +79,7 @@ while True:
         
         print("Elija el tamaño del archivo")
         print("1- Archivo Small")
-        print("3- Archivo Medium")
+        print("2- Archivo Medium")
         print("3- Archivo Large")
         tamano= input("Seleccione una opción para continuar\n")
         if int(tamano)==1:
